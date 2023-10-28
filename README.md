@@ -11,7 +11,9 @@ Simplify IP anonymization. Ideal for web scraping, security testing, and staying
 Easy setup. Start using Tor for automated IP changes.
 
 🚀 Get Started
-
+This script Is work In linux System only 
 Clone the repository and enhance your online security with automated IP changes.
 
-🔗 https://github.com/devsec23/auto-ip-change.git
+$ git clone  https://github.com/devsec23/auto-ip-change.git
+$ cd auto-ip-change 
+$ sudo python3 auto-ip-changer.py
