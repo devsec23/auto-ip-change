@@ -14,4 +14,4 @@ Easy setup. Start using Tor for automated IP changes.
 
 Clone the repository and enhance your online security with automated IP changes.
 
-🔗 
+🔗 https://github.com/devsec23/auto-ip-change.git
