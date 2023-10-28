@@ -15,5 +15,7 @@ This script Is work In linux System only
 Clone the repository and enhance your online security with automated IP changes.
 
 $ git clone  https://github.com/devsec23/auto-ip-change.git
+
 $ cd auto-ip-change 
+
 $ sudo python3 auto-ip-changer.py
